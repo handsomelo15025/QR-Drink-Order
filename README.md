@@ -4,7 +4,11 @@ QR DRINK ORDER Nội dung chính là phát triển website order cho nhân viên
 
 Về mặt kỹ thuật, đồ án đã chứng minh được tính khả thi và độ ổn định khi ứng dụng các công nghệ lập trình Java Web tiên tiến. Việc sử dụng Servlet kết hợp với Hibernate Framework đã tạo nên một tầng Backend vững chắc, giúp thao tác với cơ sở dữ liệu MySQL trở nên an toàn, tuân thủ chặt chẽ các ràng buộc toàn vẹn dữ liệu và dễ dàng bảo trì. Đặc biệt, hệ thống không chỉ hoạt động cục bộ mà đã được triển khai thành công trên nền tảng điện toán đám mây Railway, cho phép truy cập từ mọi thiết bị có kết nối Internet, đảm bảo tính thực tế cao của sản phẩm. Giao diện người dùng cũng được thiết kế thân thiện, tương thích tốt với các thiết bị di động, đảm bảo khách hàng có trải nghiệm mượt mà ngay trên điện thoại cá nhân của họ. Đường dẫn trang web dự án: https://qr-drink-order-production.up.railway.app/menu
 
+
 <img width="300" height="300" alt="qrcode" src="https://github.com/user-attachments/assets/09570bb5-e072-4fdc-8fcf-59c2660fc7c9" />
+
 
 !!!ĐỒ ÁN THỰC TẬP, CHỈ PHỤC VỤ CHO MỤC ĐÍCH HỌC TẬP!!!
 
+
+![Trang giới thiệu](https://github.com/user-attachments/assets/d72a877a-3b2c-483c-9b2a-636ce45e2b40)
